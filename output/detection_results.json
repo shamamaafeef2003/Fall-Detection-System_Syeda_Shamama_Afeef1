@@ -1,0 +1,13 @@
+{
+    "total_frames": 483,
+    "fps": 25,
+    "fall_events": [
+        {
+            "timestamp": 15.4,
+            "frame": 385,
+            "confidence": 100,
+            "datetime": "2025-11-06 00:31:08"
+        }
+    ],
+    "total_falls": 1
+}
