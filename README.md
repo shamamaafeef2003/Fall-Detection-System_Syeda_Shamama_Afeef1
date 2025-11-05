@@ -111,6 +111,10 @@ fall-detection-system/
 └── README.md
 ```
 
+![Project Screenshot](project_screenshots/31.png)
+
+
+
 ## 📊 Accuracy Results
 
 ### Test Video Performance
